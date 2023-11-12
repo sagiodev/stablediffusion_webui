@@ -250,7 +250,7 @@
     "canvas_disabled_functions": [
         "Overlap"
     ],
-    "xldemo_txt2img_huggingface_access_token": "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",
+    "xldemo_txt2img_huggingface_access_token": "",
     "xldemo_txt2img_model": "SDXL 0.9 (fp16)",
     "xldemo_txt2img_load_refiner_on_startup": true,
     "grid_text_active_color": "#000000",
